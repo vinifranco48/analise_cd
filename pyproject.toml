@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "folium>=0.20.0",
     "ipeadata>=0.0.4",
     "ipeadatapy>=0.1.9",
     "pandas>=2.3.2",
@@ -12,4 +13,5 @@ dependencies = [
     "python-dotenv>=1.1.1",
     "requests>=2.32.5",
     "streamlit>=1.49.1",
+    "streamlit-folium>=0.25.1",
 ]
