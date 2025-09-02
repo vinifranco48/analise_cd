@@ -1,0 +1,12 @@
+nome,tipo,distancia_aerea_km,distancia_rodoviaria_km,populacao_2025,densidade_demografica,pib_bilhoes,pib_per_capita,idh_2010,empregos_formais
+Salvador,Capital,0.0,0.0,2564204,3486.49,62.95,21706,0.759,600000
+Vera Cruz,Cidade,12.49,23.0,45191,142.94,0.603,13641,0.645,5100
+Lauro de Freitas,Cidade,21.18,26.14,219564,ND,7.3,35800,0.754,126500
+Itaparica,Cidade,21.27,29.74,19789,163.04,0.247,11000,ND,2400
+Simões Filho,Cidade,23.18,26.42,120419,568.45,6.3,46197,0.675,46000
+Madre de Deus,Cidade,28.13,61.87,19200,574.64,0.516,23700,0.708,3200
+Salinas da Margarida,Cidade,29.75,73.8,15629,99.54,0.201,12550,0.617,1200
+Candeias,Cidade,33.75,49.46,75100,ND,6.8,77650,0.691,16300
+Camaçari,Cidade,35.71,49.6,319394,382.43,34.0,109867,0.694,80600
+Saubara,Cidade,38.4,102.71,11800,ND,0.146,12000,ND,1600
+São Francisco do Conde,Cidade,43.77,81.13,40932,ND,13.1,321811,ND,8600

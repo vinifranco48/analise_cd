@@ -1,0 +1,12 @@
+nome,tipo,distancia_aerea_km,distancia_rodoviaria_km,populacao_2025,densidade_demografica,pib_bilhoes,pib_per_capita,idh_2010,empregos_formais
+Recife,Capital,0.0,0.0,1588376,6803.6,52.25,33094,0.772,703200
+Olinda,Cidade,4.76,5.79,365400,8474.0,5.8,14700,ND,79500
+Camaragibe,Cidade,11.43,15.11,156112,2879.35,2.2,13940,0.692,16300
+Paulista,Cidade,12.56,16.01,363000,3098.0,5.6,16600,ND,54000
+São Lourenço da Mata,Cidade,15.54,30.26,117759,421.9,1.4,12568,0.653,11800
+Abreu e Lima,Cidade,16.4,19.05,103900,779.07,1.7,17100,ND,11000
+Jaboatão dos Guararapes,Cidade,16.88,21.93,684293,2489.28,16.1,22681,0.717,107000
+Moreno,Cidade,23.75,31.2,57600,284.6,0.893,14000,ND,8800
+Igarassu,Cidade,24.37,27.17,123017,375.38,3.5,29003,0.665,23700
+Cabo de Santo Agostinho,Cidade,30.85,35.41,217000,413.0,13.7,65000,0.686,42400
+Itapissuma,Cidade,31.07,36.86,29669,375.15,2.4,87815,0.633,8000
